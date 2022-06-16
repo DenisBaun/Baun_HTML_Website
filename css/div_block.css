@@ -1,0 +1,186 @@
+body { background-color: white}
+
+ /* Schrift */
+ .copy {font-family:verdana;
+  font-size:14px;
+ color:black; } 
+ 
+.footerfont { font-family:verdana;
+  font-size:12px;
+  font-weight: 600;
+  color:black; }
+ 
+ .tablefont{ font-family:verdana;
+  font-size:14px;
+  color:black;}
+
+  h3{color:blue; }
+
+ /* Navi-Leiste */
+
+ .navifont{ font-family:verdana;
+  font-size:14px;
+  font-weight: 700;
+  color:black; }
+
+  a {font-family: verdana;}
+
+ 
+   
+
+  a:link {color: darkblue;
+   text-decoration: none;}
+  a:visited {color: purple;}
+  a:hover {color: grey }
+  
+
+   
+
+/* Div_Blöcke */
+
+#wrapper { background-color: lightblue;
+  margin: 0px auto;
+  align-content: center;
+  width:1100px;
+  height: 3000px;
+padding: 100px;}
+
+
+#logo
+  { background-color: ;
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin: 10px;
+  }
+
+  
+  
+  #navi
+  { background-color: whitesmoke;
+    height: 130px;
+    width:  1100px;
+    margin: 10px;
+    padding-top: 20px;
+     }
+
+  
+  #navitable
+  { background-color: whitesmoke;
+    height: 70x;
+    width:  870px;
+    margin-left: 180px;
+    margin-top: 15px;
+     }
+ 
+  
+     #banner 
+  { background-color: yellow;
+    height: 250px;
+    width: 1100px;
+    margin: 10px;
+    }
+ 
+  
+    #content1
+  { background-color: white;
+    height: 525px;
+    width: 1070;
+    margin: 10px;
+    padding-left: 30px;
+    padding-top: 1px;
+  }
+ 
+  
+  #table1 
+  { background-color: white;
+    height: 275px;
+    width: 800px;
+    float: left;
+    margin-top: 20px;
+   margin-left: 10px;
+   padding-left: 30px;
+   padding-top: 10px;
+  }
+  
+  
+  #placeholder1
+  { background-color: white;
+    height: 330px;
+    width: 1100;
+    margin: 10px;
+    }
+
+
+  #img { background-color: white;
+    height: 750px;
+    width: 1100;
+    margin: 10px;
+    
+    }
+    
+    
+    #bild { background-color: white;
+      height: 667px;
+      width: 1000px;
+      padding-top: 40px;
+    padding-left: 10px;
+    margin: auto;
+     
+     
+      }
+
+    
+
+
+  #content2
+  { background-color: white;
+    height: 450px;
+    width: 1070;
+    margin: 10px;
+    padding-left: 30px;
+    padding-top: 1px;
+  }
+ 
+  
+  #table2
+  { background-color: white;
+    height: 250px;
+    width: 800px;
+    float: left;
+    margin-top: 20px;
+   margin-left: 10px;
+   padding-left: 30px;
+   padding-top: 10px;
+  }
+  
+  
+  #placeholder2
+  { background-color: white;
+    height: 300px;
+    width: 1100;
+    margin: 10px;
+     }
+
+
+     #footer1
+  { background-color: white;
+    height: 130px;
+    width: 130px;
+    padding-left: 30px;
+    float: left;
+    margin-left: 10px;
+    
+     }
+
+     #footer2
+  { background-color:white ;
+    height: 130px;
+    width: 800px;
+    margin: 10px;
+    padding-left: 300px;
+    
+    
+     }
+  
+  
